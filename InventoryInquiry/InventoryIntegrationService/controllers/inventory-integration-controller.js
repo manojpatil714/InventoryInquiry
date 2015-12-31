@@ -84,7 +84,7 @@ function inventoryEnquiry (req,res) {
 		//Define host
 		options.host = 'localhost';
 		//Define port
-		options.port = 3001;
+		options.port = 3003;
 		//Define path
 		options.path = '/api/getInventoryEnquiry/post';
 

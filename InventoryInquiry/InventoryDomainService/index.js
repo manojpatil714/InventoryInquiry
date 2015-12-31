@@ -63,6 +63,6 @@ server.on('uncaughtException', function(req, res, route, err) {
 });
 
 console.log('Server started.');
-server.listen(3001, function () {
+server.listen(3003, function () {
   log.info('%s listening at %s', server.name, server.url);
 });

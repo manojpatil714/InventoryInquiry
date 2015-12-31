@@ -1,0 +1,2 @@
+cd /InventoryInquiry/InventoryIntegrationService
+npm start
